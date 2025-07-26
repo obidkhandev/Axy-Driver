@@ -1,7 +1,7 @@
-Privacy Policy for Axy Driver
+Privacy Policy for Ara kafe
 
 Privacy Policy
-Last updated: May 13, 2025
+Last updated: July 26, 2025
 
 This Privacy Policy describes Our policies and procedures on the collection, use and disclosure of Your information when You use the Service and tells You about Your privacy rights and how the law protects You.
 
@@ -18,9 +18,9 @@ Account means a unique account created for You to access our Service or parts of
 
 Affiliate means an entity that controls, is controlled by or is under common control with a party, where "control" means ownership of 50% or more of the shares, equity interest or other securities entitled to vote for election of directors or other managing authority.
 
-Application refers to Axy Driver, the software program provided by the Company.
+Application refers to Ara kafe, the software program provided by the Company.
 
-Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Axy Driver.
+Company (referred to as either "the Company", "We", "Us" or "Our" in this Agreement) refers to Ara kafe.
 
 Country refers to: Uzbekistan
 
@@ -137,5 +137,4 @@ You are advised to review this Privacy Policy periodically for any changes. Chan
 Contact Us
 If you have any questions about this Privacy Policy, You can contact us:
 
-By email: mobiledevs47@gmail.com
-Generated using TermsFeed Privacy Policy Generator
+By email: texnolaunch@gmail.com
